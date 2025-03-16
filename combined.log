@@ -1,0 +1,122 @@
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-02-26T19:47:33.150Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-02-26T19:47:33.759Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:19:48:16 +0000] \"POST /api/users/login HTTP/1.1\" 200 66 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T19:48:16.145Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:19:48:35 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 400 41 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T19:48:35.402Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-02-26T19:49:55.570Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-02-26T19:49:56.126Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:19:50:20 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T19:50:20.449Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:19:50:40 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 400 41 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T19:50:40.334Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-02-26T19:52:47.279Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-02-26T19:52:48.457Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:19:53:11 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T19:53:11.364Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 193000, stored OTP undefined","timestamp":"2025-02-26T19:53:27.981Z"}
+{"level":"warn","message":"OTP verification failed: Invalid OTP for email sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T19:53:27.981Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:19:53:27 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 400 41 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T19:53:27.983Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-02-26T19:57:44.848Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-02-26T19:57:46.652Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:19:58:06 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T19:58:06.593Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 340085, stored OTP undefined","timestamp":"2025-02-26T19:58:26.578Z"}
+{"level":"warn","message":"OTP verification failed: Invalid OTP for email sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T19:58:26.578Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:19:58:26 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 400 41 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T19:58:26.580Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-02-26T20:01:20.535Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-02-26T20:01:21.322Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:01:45 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:01:45.150Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 369996, stored OTP undefined","timestamp":"2025-02-26T20:02:00.777Z"}
+{"level":"warn","message":"OTP verification failed: Invalid OTP for email sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T20:02:00.777Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:02:00 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 400 41 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:02:00.779Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-02-26T20:04:21.004Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-02-26T20:04:21.534Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:04:49 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:04:49.083Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 580654, stored OTP undefined","timestamp":"2025-02-26T20:05:06.576Z"}
+{"level":"warn","message":"OTP verification failed: Invalid OTP for email sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T20:05:06.576Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:05:06 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 400 41 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:05:06.578Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-02-26T20:07:28.585Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-02-26T20:07:30.625Z"}
+{"level":"info","message":"OTP sent to sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T20:08:04.466Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:08:04 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:08:04.472Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 966872, stored OTP undefined","timestamp":"2025-02-26T20:08:16.448Z"}
+{"level":"warn","message":"OTP verification failed: Invalid OTP for email sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T20:08:16.448Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:08:16 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 400 41 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:08:16.450Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-02-26T20:10:07.067Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-02-26T20:10:08.350Z"}
+{"level":"info","message":"OTP sent to sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T20:10:32.082Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:10:32 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:10:32.087Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 454696, stored OTP undefined","timestamp":"2025-02-26T20:10:43.727Z"}
+{"level":"warn","message":"OTP verification failed: Invalid OTP for email sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T20:10:43.728Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:10:43 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 400 41 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:10:43.729Z"}
+{"level":"info","message":"OTP sent to sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T20:12:59.760Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:12:59 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:12:59.762Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 147129, stored OTP undefined","timestamp":"2025-02-26T20:13:11.628Z"}
+{"level":"warn","message":"OTP verification failed: Invalid OTP for email sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T20:13:11.628Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:13:11 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 400 41 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:13:11.629Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-02-26T20:16:35.368Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-02-26T20:16:36.511Z"}
+{"level":"info","message":"OTP sent to sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T20:17:01.861Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:17:01 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:17:01.867Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 152485, stored OTP 152485","timestamp":"2025-02-26T20:17:15.295Z"}
+{"level":"info","message":"OTP verified successfully for sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T20:17:15.326Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:17:15 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 200 54 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:17:15.329Z"}
+{"level":"info","message":"OTP sent to sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T20:26:11.717Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:26:11 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:26:11.719Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 293825, stored OTP 293825","timestamp":"2025-02-26T20:26:27.470Z"}
+{"level":"info","message":"OTP verified successfully for sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T20:26:27.499Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:20:26:27 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 200 54 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T20:26:27.502Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-02-26T20:50:11.038Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-02-26T20:50:12.506Z"}
+{"level":"info","message":"OTP sent to sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T21:00:49.487Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:21:00:49 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T21:00:49.491Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 349100, stored OTP 349100","timestamp":"2025-02-26T21:01:16.426Z"}
+{"level":"info","message":"OTP verified successfully for sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T21:01:16.453Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:21:01:16 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 200 54 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T21:01:16.455Z"}
+{"level":"info","message":"OTP sent to sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T21:12:15.020Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:21:12:15 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T21:12:15.021Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 915646, stored OTP 915646","timestamp":"2025-02-26T21:12:41.677Z"}
+{"level":"info","message":"OTP verified successfully for sumanthbabu.muthineni@gmail.com","timestamp":"2025-02-26T21:12:41.703Z"}
+{"level":"info","message":"::1 - - [26/Feb/2025:21:12:41 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 200 54 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-02-26T21:12:41.704Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-16T05:31:13.343Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-03-16T05:31:15.212Z"}
+{"level":"warn","message":"Login failed: Invalid password for email sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T05:32:01.292Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:05:32:01 +0000] \"POST /api/users/login HTTP/1.1\" 400 49 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T05:32:01.294Z"}
+{"level":"info","message":"OTP sent to sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T05:32:07.360Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:05:32:07 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T05:32:07.363Z"}
+{"level":"info","message":"OTP sent to sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T05:32:09.963Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:05:32:09 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T05:32:09.964Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 320771, stored OTP 259732","timestamp":"2025-03-16T05:32:30.967Z"}
+{"level":"warn","message":"OTP verification failed: Invalid OTP for email sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T05:32:30.968Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:05:32:30 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 400 41 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T05:32:30.969Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 259732, stored OTP 259732","timestamp":"2025-03-16T05:32:42.331Z"}
+{"level":"info","message":"OTP verified successfully for sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T05:32:42.367Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:05:32:42 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 200 54 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T05:32:42.369Z"}
+{"level":"info","message":"User registered successfully: sumanthbabu868@gmail.com","timestamp":"2025-03-16T05:39:15.269Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:05:39:15 +0000] \"POST /api/users/register HTTP/1.1\" 201 81 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T05:39:15.270Z"}
+{"level":"info","message":"OTP sent to sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T05:39:38.719Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:05:39:38 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T05:39:38.721Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 741572, stored OTP 741572","timestamp":"2025-03-16T05:40:12.400Z"}
+{"level":"info","message":"OTP verified successfully for sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T05:40:12.442Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:05:40:12 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 200 54 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T05:40:12.443Z"}
+{"level":"info","message":"OTP sent to sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T05:43:39.727Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:05:43:39 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T05:43:39.728Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 380417, stored OTP 380147","timestamp":"2025-03-16T05:44:02.006Z"}
+{"level":"warn","message":"OTP verification failed: Invalid OTP for email sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T05:44:02.006Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:05:44:02 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 400 41 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T05:44:02.007Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 380147, stored OTP 380147","timestamp":"2025-03-16T05:44:12.475Z"}
+{"level":"info","message":"OTP verified successfully for sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T05:44:12.547Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:05:44:12 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 200 54 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T05:44:12.548Z"}
+{"level":"warn","message":"Login failed: User not found for email adminuser@gmail.com","timestamp":"2025-03-16T05:44:22.611Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:05:44:22 +0000] \"POST /api/users/login HTTP/1.1\" 400 49 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T05:44:22.612Z"}
+{"level":"warn","message":"Registration failed: Email already in use","timestamp":"2025-03-16T06:04:41.583Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:06:04:41 +0000] \"POST /api/users/register HTTP/1.1\" 400 50 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T06:04:41.584Z"}
+{"level":"info","message":"User registered successfully: sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T06:12:52.562Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:06:12:52 +0000] \"POST /api/users/register HTTP/1.1\" 201 81 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T06:12:52.563Z"}
+{"level":"info","message":"OTP sent to sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T06:13:10.281Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:06:13:10 +0000] \"POST /api/users/login HTTP/1.1\" 200 51 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T06:13:10.282Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 380147, stored OTP 339339","timestamp":"2025-03-16T06:13:32.848Z"}
+{"level":"warn","message":"OTP verification failed: Invalid OTP for email sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T06:13:32.849Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:06:13:32 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 400 41 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T06:13:32.849Z"}
+{"level":"info","message":"Verifying OTP for sumanthbabu.muthineni@gmail.com: received OTP 339339, stored OTP 339339","timestamp":"2025-03-16T06:13:45.860Z"}
+{"level":"info","message":"OTP verified successfully for sumanthbabu.muthineni@gmail.com","timestamp":"2025-03-16T06:13:45.901Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:06:13:45 +0000] \"POST /api/users/verify-otp HTTP/1.1\" 200 54 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T06:13:45.902Z"}
+{"level":"warn","message":"Registration failed: Email already in use","timestamp":"2025-03-16T06:14:26.850Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:06:14:26 +0000] \"POST /api/users/register HTTP/1.1\" 400 50 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T06:14:26.852Z"}
+{"level":"info","message":"User registered successfully: sumanthbabu.muthi@gmail.com","timestamp":"2025-03-16T06:15:30.548Z"}
+{"level":"info","message":"::1 - - [16/Mar/2025:06:15:30 +0000] \"POST /api/users/register HTTP/1.1\" 201 81 \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","timestamp":"2025-03-16T06:15:30.549Z"}
